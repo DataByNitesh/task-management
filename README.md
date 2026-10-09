@@ -1,5 +1,4 @@
 
-```md
 # Task Management System
 
 A backend Task Management System built with Node.js, Express.js, PostgreSQL, Sequelize, and JWT authentication.
@@ -37,7 +36,7 @@ The system supports user authentication, task management, ownership-based access
 
 ## Project Structure
 
-```text
+
 task-management-system/
 ├── src/
 │   ├── config/
